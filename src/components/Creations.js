@@ -1,5 +1,3 @@
-import { useState, useEffect } from "react";
-
 export default function Creations(props) {
     return (
         <div className="flex flex-col items-center p-10 mt-6 ">
