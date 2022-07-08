@@ -79,7 +79,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Muhammad Kadhim](https://github.com/Muhammadkadhim/))
+- Github - [Muhammad Kadhim](https://github.com/Muhammadkadhim/))
 - Frontend Mentor - [@Muhammadkadhim](https://www.frontendmentor.io/profile/Muhammadkadhim)
 - Twitter - [@kadhim_muhammad](https://www.twitter.com/kadhim_muhammad)
 
